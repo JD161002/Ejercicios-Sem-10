@@ -26,9 +26,9 @@ namespace Ejercicios_Sem_10
             Console.WriteLine("-----------------");
             Console.WriteLine("Recorrido InOrden: ");
             InOrden(Arbol);
-            //Console.WriteLine("-----------------");
-            //Console.WriteLine("Recorrido PostOrden: ");
-            //PostOrden(Arbol);
+            Console.WriteLine("-----------------");
+            Console.WriteLine("Recorrido PostOrden: ");
+            PostOrden(Arbol);
             //Console.WriteLine("-----------------");
             Console.WriteLine("Recorrido InOrdenDescendentemente: ");
             InOrdenDesc(Arbol);
