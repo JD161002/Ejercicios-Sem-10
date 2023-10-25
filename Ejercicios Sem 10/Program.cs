@@ -21,8 +21,8 @@ namespace Ejercicios_Sem_10
             Insertar(Arbol, 20);
             Insertar(Arbol, 25);
             Insertar(Arbol, 5);
-            //Console.WriteLine("Recorrido PreOrden: ");
-            //PreOrden(Arbol);
+            Console.WriteLine("Recorrido PreOrden: ");
+            PreOrden(Arbol);
             //Console.WriteLine("-----------------");
             //Console.WriteLine("Recorrido InOrden: ");
             //InOrden(Arbol);
